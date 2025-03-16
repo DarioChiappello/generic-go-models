@@ -241,4 +241,3 @@ This README:
 3. Provides ready-to-use request examples
 4. Includes setup instructions
 5. Maintains generic implementation approach
-6. Avoids ORM relationships as requested
